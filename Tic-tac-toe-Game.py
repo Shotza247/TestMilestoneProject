@@ -60,7 +60,7 @@ def show_scores():
 
 def main():
     print("Welcome to Tic-Tac-Toe!")
-    print(f"player 1 is "{player_symbols[0]}" and player 2 is "{player_symbols[1]}")
+    print(f"player 1 is '{player_symbols[0]}' and player 2 is '{player_symbols[1]}'")
     while True:
         play_game()
         show_scores()
