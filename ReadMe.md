@@ -8,5 +8,4 @@
 from main() → play_game() → the turn loop → win/draw checks → score display → "play again?" decision - including the re-prompt loop for invalid input and the player-switch step.
 * Function Call Graph (Section 05) shows the architectural relationship between all 8 functions, which reads board[], and which mutates it.
 * Function Reference Table (Section 06) documents every function with its parameters, return type, and a plain-English description — useful as a quick lookup.
-----
-### Here is the HTML version of the read me build and generated with Claude: https://claude.ai/public/artifacts/21664ac6-77ba-4513-a7b0-12053db33c00
+
